@@ -53,7 +53,7 @@ let compute op stk =
       (List.assoc op operators1) x :: xs
   | (ar2, y1 :: y2 :: ys) when ar2 = 2 ->
       (List.assoc op operators2) y2 y1 :: ys
-  | (_, _) -> failwith "This should never happen... Weird arity ?"
+  | (_, _) -> failwith "This should never happen... Weird arity?"
 
 
 (* Process the expression already transformed as a list  *)
