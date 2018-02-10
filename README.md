@@ -6,7 +6,6 @@ Table of contents
  - [Available operations and commands](#available-operations-and-commands)
  - [Building and running](#building-and-running)
      - [OCaml](#ocaml)
- - [Example session](#example-session)
 
 
 ## Introduction
