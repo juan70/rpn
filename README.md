@@ -3,7 +3,7 @@ A (very) simplistic RPN calculator
 
 Table of contents
  - [Introduction](#introduction)
- - [Available operations and commands](#operations)
+ - [Available operations and commands](#available-operations-and-commands)
  - [Building and running](#building-and-running)
      - [OCaml](#ocaml)
  - [Example session](#example-session)
